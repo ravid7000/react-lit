@@ -1,0 +1,23 @@
+{
+  "name": "react-lit",
+  "version": "0.0.1",
+  "description": "Lighter and Faster React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravid7000/react-lit.git"
+  },
+  "keywords": [
+    "react",
+    "react-lit"
+  ],
+  "author": "Ravi Dhiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravid7000/react-lit/issues"
+  },
+  "homepage": "https://github.com/ravid7000/react-lit#readme"
+}
